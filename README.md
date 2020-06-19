@@ -1,13 +1,38 @@
 # 100DaysOfMLCode
-My journey towards expertise in Machine Learning. 
-Day 1
+My journey towards expertise in Machine Learning.
 I decided to start a dedicated learning journey from today.
 I needed some motivation during the lockdown and that is when I came across the #100DaysOfMLCode challenge.
-Committing to spend1-hour every day on machine learning for 100 days with all dedication and passion.
+I pledge to spend atleast an hour every day on machine learning for the next 100 days with all dedication and passion.
 
-Day 1: Tried various techniques for feature scaling over a very small dataset. This is as a part of preprocessing for my Support Vector Regression model.
-#100DaysOfMLCode 
-#Regression #MachineLearining #FeatureScaling
+## Tools
+- [Jupyter Notebook](https://jupyter.org/)
+- [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
+- [TensorFlow Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.43541&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+
+## Prominent Resources
+- Udemy 
+  - [Machine Learning A-Z: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/)
+- Coursera 
+  - [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
+  - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- Youtube
+  - [Convolutional Neural Networks](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+  
+## Kaggle Submissions
+[My Kaggle](https://www.kaggle.com/sindhuinuganti/competitions)
+- [Digit Recognizer - CNN](https://www.kaggle.com/c/digit-recognizer)
+- [Titanic: Machine Learning from Disaster - Binary Classification](https://www.kaggle.com/c/titanic)
+- [House Prices: Advanced Regression Techniques - Regression](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
+## Projects
+- [Boston House Price Prediction](https://github.com/SINDHUSITA/Boston-House-Prices-Prediction)
+- [Titanic Survival Prediction](https://github.com/SINDHUSITA/Titanic-Machine-Learning-from-Disaster)
+- [Brest Cancer Prediction](https://github.com/SINDHUSITA/Breast-Cancer-Prediction)
+
+## Course Certifications
+- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/EBDZUTVZW39G)
+
+Day 1:  Tried various techniques for feature scaling over a very small dataset. This is as a part of preprocessing for my Support Vector Regression model.
 
 Day 2: Implemented Decision Tree Regressor and Support Vector Regressor over a sample dataset. Also, I got an idea of how each of these works mathematically. 
 It is really fun experimenting and checking out various outcomes.
