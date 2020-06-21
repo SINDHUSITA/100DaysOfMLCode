@@ -100,6 +100,8 @@ Working on improving results for a #kaggle submission.
 Also, explored how CNNs work.
 My Kaggle: https://www.kaggle.com/sindhuinuganti
 
-Day 37,38: Learning Computer Vision Fundamentals with: Hand-Written Digit Recognizer from famous MNIST data.
-Working on improving results for a #kaggle submission.
-Also, explored how CNNs work.
+Day 39: Learned more about CNNs and Computer Vision from a Coursera and Improved Digit Recognizer model for Kaggle
+
+Day 40: A kick start with a program with [Widhya](https://widhya.org/#/) where I learn mathematical fundamentals of various machine learning model.
+
+Day 41: Finished the introductory course for Tensor Flow on Coursera as a part of Tenfor Flow specialization.
