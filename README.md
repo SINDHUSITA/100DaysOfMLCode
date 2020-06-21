@@ -33,6 +33,7 @@ I pledge to spend atleast an hour every day on machine learning for the next 100
 
 ## Course Certifications
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/EBDZUTVZW39G)
+- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/3R4QL7MD4XAX)
 
 Day 1:  Tried various techniques for feature scaling over a very small dataset. This is as a part of preprocessing for my Support Vector Regression model.
 
@@ -106,3 +107,4 @@ Day 39: Learned more about CNNs and Computer Vision from a Coursera and Improved
 Day 40: A kick start with a program with [Widhya](https://widhya.org/#/) where I learn mathematical fundamentals of various machine learning model.
 
 Day 41: Finished the introductory course for Tensor Flow on Coursera as a part of Tenfor Flow specialization.
+![Certificate of Introductory Course for Tensor Flow](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/Intro%20to%20TensorFlow.png)
