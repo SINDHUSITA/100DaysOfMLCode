@@ -93,7 +93,8 @@ Looking forward to continuing for the rest 3 quarters with the same enthusiasm.
 
 Day 26-30: Taking baby steps into Deep Learning. There are numerous amazing resources available online just for free to help anyone get through this. I found #Coursera and #fasiai to be very useful and of course #YouTube too.
 
-Day 31-36: Understanding how neural networks and deep learning work. Invested more time into theoretical concepts rather than practicing them. I am going to utilize this Week5 for practical knowledge and for getting comfortable with #TensorFlow.
+Day 31-36: Understanding how neural networks and deep learning work with the help of Coursera. Invested more time into theoretical concepts rather than practicing them. I am going to utilize this Week5 for practical knowledge and for getting comfortable with #TensorFlow.
+![Certificate of Neural Networks and Deep Learning Course](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/Neural%20Nets%20and%20DL.png)
 
 Day 37,38: Learning Computer Vision Fundamentals with: Hand-Written Digit Recognizer from famous MNIST data.
 Working on improving results for a #kaggle submission.
