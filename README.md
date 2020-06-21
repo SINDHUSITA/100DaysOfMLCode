@@ -23,11 +23,13 @@ I pledge to spend atleast an hour every day on machine learning for the next 100
 - [Digit Recognizer - CNN](https://www.kaggle.com/c/digit-recognizer)
 - [Titanic: Machine Learning from Disaster - Binary Classification](https://www.kaggle.com/c/titanic)
 - [House Prices: Advanced Regression Techniques - Regression](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+- [Digit Recognizer - Computer Vision](https://www.kaggle.com/c/digit-recognizer)
 
 ## Projects
 - [Boston House Price Prediction](https://github.com/SINDHUSITA/Boston-House-Prices-Prediction)
 - [Titanic Survival Prediction](https://github.com/SINDHUSITA/Titanic-Machine-Learning-from-Disaster)
 - [Brest Cancer Prediction](https://github.com/SINDHUSITA/Breast-Cancer-Prediction)
+- [Hand Written Digit Regonizer](https://github.com/SINDHUSITA/Hand-Written-Digit-Recognizer)
 
 ## Course Certifications
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/EBDZUTVZW39G)
@@ -98,5 +100,6 @@ Working on improving results for a #kaggle submission.
 Also, explored how CNNs work.
 My Kaggle: https://www.kaggle.com/sindhuinuganti
 
-#100DaysOfMLCode
-#DeepLearning #MachineLearning
+Day 37,38: Learning Computer Vision Fundamentals with: Hand-Written Digit Recognizer from famous MNIST data.
+Working on improving results for a #kaggle submission.
+Also, explored how CNNs work.
