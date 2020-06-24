@@ -32,12 +32,12 @@ I pledge to spend atleast an hour every day on machine learning for the next 100
 - [House Prices: Advanced Regression Techniques - Regression](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 ## Projects
-| No  |  Project Title  |  Completed On |  Concept  |
-| ------------ | ------------ | ------------ |
-| 1  |[Boston House Price Prediction](https://github.com/SINDHUSITA/Boston-House-Prices-Prediction) |  Day 4  |  Regression |
-| 2  | [Brest Cancer Prediction](https://github.com/SINDHUSITA/Breast-Cancer-Prediction)  |  Day 10  |  Classification  |
-| 3  | [Titanic Survival Prediction](https://github.com/SINDHUSITA/Titanic-Machine-Learning-from-Disaster)  | Day 20  |  Classification  |
-| 4  |[Hand Written Digit Regonizer](https://github.com/SINDHUSITA/Hand-Written-Digit-Recognizer) | Day 38  | Multi Class Classification - Computer Vision  |
+No | Project Title | Completed On | Concept
+------------ | ------------ | ------------ | ------------
+1  | [Boston House Price Prediction](https://github.com/SINDHUSITA/Boston-House-Prices-Prediction) | Day 4 | Regression 
+2  | [Breast Cancer Prediction](https://github.com/SINDHUSITA/Breast-Cancer-Prediction) | Day 10 | Classification
+3  | [Titanic Survival Prediction](https://github.com/SINDHUSITA/Titanic-Machine-Learning-from-Disaster) | Day 20 | Classification
+4  | [Hand Written Digit Regonizer](https://github.com/SINDHUSITA/Hand-Written-Digit-Recognizer) | Day 38 | Multi Class Classification Computer Vision
 
 ## Course Certifications
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/EBDZUTVZW39G)
