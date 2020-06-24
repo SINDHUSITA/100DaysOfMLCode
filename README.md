@@ -104,7 +104,11 @@ My Kaggle: https://www.kaggle.com/sindhuinuganti
 
 Day 39: Learned more about CNNs and Computer Vision from a Coursera and Improved Digit Recognizer model for Kaggle
 
-Day 40: A kick start with a program with [Widhya](https://widhya.org/#/) where I learn mathematical fundamentals of various machine learning model.
+Day 40: A kick start with a program with [Widhya](https://widhya.org/#/) where I am learning mathematical fundamentals of various machine learning models.
 
 Day 41: Finished the introductory course for Tensor Flow on Coursera as a part of Tenfor Flow specialization.
 ![Certificate of Introductory Course for Tensor Flow](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/Intro%20to%20TensorFlow.png)
+
+Day 42,43: Overview of Natural Language Processing(NLP) with Bag of Words model.
+
+Day 44: Revised Neural networks and Deep Learning concepts with [Widhya](https://widhya.org/#/).
