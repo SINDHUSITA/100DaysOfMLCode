@@ -1,8 +1,15 @@
 # 100 Days Of ML Code
+
+**Main target:** ***I will practise Machine Learning for at least an hour every day for the next 100 days.***
+
 My journey towards expertise in Machine Learning.
 I decided to start a dedicated learning journey from today.
 I needed some motivation during the lockdown and that is when I came across the #100DaysOfMLCode challenge.
 I pledge to spend atleast an hour every day on machine learning for the next 100 days with all dedication and passion.
+
+|  Start Date | End Date |
+| ------------ | ------------ |
+| 12th May, 2020 | 20th August, 2020|
 
 ## Tools
 - [Jupyter Notebook](https://jupyter.org/)
@@ -25,10 +32,12 @@ I pledge to spend atleast an hour every day on machine learning for the next 100
 - [House Prices: Advanced Regression Techniques - Regression](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 ## Projects
-- [Boston House Price Prediction](https://github.com/SINDHUSITA/Boston-House-Prices-Prediction)
-- [Titanic Survival Prediction](https://github.com/SINDHUSITA/Titanic-Machine-Learning-from-Disaster)
-- [Brest Cancer Prediction](https://github.com/SINDHUSITA/Breast-Cancer-Prediction)
-- [Hand Written Digit Regonizer](https://github.com/SINDHUSITA/Hand-Written-Digit-Recognizer)
+| No  |  Project Title  |  Completed On |  Concept  |
+| ------------ | ------------ | ------------ |
+| 1  |[Boston House Price Prediction](https://github.com/SINDHUSITA/Boston-House-Prices-Prediction) |  Day 4  |  Regression |
+| 2  | [Brest Cancer Prediction](https://github.com/SINDHUSITA/Breast-Cancer-Prediction)  |  Day 10  |  Classification  |
+| 3  | [Titanic Survival Prediction](https://github.com/SINDHUSITA/Titanic-Machine-Learning-from-Disaster)  | Day 20  |  Classification  |
+| 4  |[Hand Written Digit Regonizer](https://github.com/SINDHUSITA/Hand-Written-Digit-Recognizer) | Day 38  | Multi Class Classification - Computer Vision  |
 
 ## Course Certifications
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/EBDZUTVZW39G)
