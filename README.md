@@ -158,8 +158,10 @@ Revised Neural networks and Deep Learning concepts with [Widhya](https://widhya.
 ## Day 45
 **Today's Progress**:
 Implemented code to experiment Digit Recognition with Real World Images.
+
 **Link to work**:
 [Digit Reconizer](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Deep%20Learning/Projects/Digit%20Recognizer)
+
 **Thoughts**:
 Had I trained the model with better data, the better would have been the Model's performance.
 ![Correctly recognized 2](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/2_CorrectClassification.png)  ![Wrongly recognized 5](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/5_WronglyClassified.png)
