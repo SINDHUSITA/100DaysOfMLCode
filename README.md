@@ -133,7 +133,7 @@ Understanding how neural networks and deep learning work with the help of Course
 ![Certificate of Neural Networks and Deep Learning Course](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/Neural%20Nets%20and%20DL.png)
 
 ## Day 37,38
-Learning **Computer Vision** Fundamentals with: [Hand Written Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) from famous MNIST data.
+Learning **Computer Vision** Fundamentals with: [Hand Written Digit Recognizer](https://github.com/SINDHUSITA/Hand-Written-Digit-Recognizer) from famous MNIST data.
 Working on improving results for a kaggle submission.
 Also, explored how CNNs work.
 My Kaggle: [Sindhu Inuganti - Kaggle](https://kaggle.com/sindhuinuganti)
