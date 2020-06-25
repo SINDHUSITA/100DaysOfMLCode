@@ -44,13 +44,36 @@ No | Project Title | Completed On | Concept
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/3R4QL7MD4XAX)
 
 ## Day 1
+**Today's Progress:**
 Tried various techniques for feature scaling over a very small dataset. This is as a part of preprocessing for my Support Vector Regression model.
 
+**Link to work:**
+[Feature Scaling](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Part%202%20-%20Regression/Section%207%20-%20Support%20Vector%20Regression%20(SVR)/support_vector_regression%20-%20Practice.ipynb)
+
+**Thoughts:**
+
+![Standard Scaler](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/SS.png)  ![Robust Scaler](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/RS.png)
+![Min Max Scaler](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/mixmax%20(2).png)  ![Normalizing](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/normal.png)
+
 ## Day 2
+**Today's Progress:**
 Implemented Decision Tree Regressor and Support Vector Regressor over a sample dataset. Also, I got an idea of how each of these works mathematically. 
+
+**Link to work:**
+[Decision Tree Regressor](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Part%202%20-%20Regression/Section%208%20-%20Decision%20Tree%20Regression)
+[Support Vector Regressor](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Part%202%20-%20Regression/Section%207%20-%20Support%20Vector%20Regression%20(SVR))
+
+**Thoughts:**
 It is really fun experimenting and checking out various outcomes.
 
 ## Day 3
+**Today's Progress:**
+Comparing all the Models implemented till now and learned about R Squrared and Advanced R Squared metrics
+
+**Link to work:**
+[Model Selection and Evaluation](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Part%202%20-%20Regression/Section%2010%20-%20Evaluating%20Regression%20Models%20Performance/Practice)
+
+**Thoughts:**
 Feeling great as I completed the Part2, Regression, from the course that I am currently pursuing. A big thanks to the tutors @kirill_eremenko and @Hadelin_de_Ponteves who made the learning so simple and fun. Can't wait the begin the Part3, Classification.
  
 ## Day 3,4
