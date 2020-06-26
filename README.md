@@ -165,3 +165,20 @@ Implemented code to experiment Digit Recognition with Real World Images.
 **Thoughts**:
 Had I trained the model with better data, the better would have been the Model's performance.
 ![Correctly recognized 2](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/2_CorrectClassification.png)  ![Wrongly recognized 5](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/5_WronglyClassified.png)
+
+## Day 46
+**Today's Progress**:
+Introduction to NLP with machine learning. 
+Understood what Tokenization, Bag of Words approach and how BERT works.
+Implemented understanding of Bag of Words approach for Sentiment Analysis on Restarant Review Dataset.
+
+**Link to work**:
+[Sentiment Analysis](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Part%207%20-%20Natural%20Language%20Processing)
+
+**Thoughts**:
+As introduction to **NLP with machine learning**, This model classfies a given restaurant review as Positive or Negative review.
+For this Binary Classification, I used the **Navie Bayes Algorithm** and implemented the **Bag of Words** approach
+Though this algorithm gave lesser accuracy compared to other algoritms, it performed better with the examples that I tested the model with compared to the others.
+
+![Reviews - 1](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/Reviews1.png) ![Reviews - 2](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/Reviews2.png)
+
