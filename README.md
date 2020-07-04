@@ -198,6 +198,7 @@ Will upload my version of implementation soon.
 ## Day 51,52:
 **Days' Progress**:
 As a part of Integrated Internship Program by [Widhya](https://widhya.org/#/), finished assignments in Quantitative Modeling.
+
 Tasks included: 
 1. Covid-19 Data Collection and Visualization.
 2. Modeling a solution for exponential data from scratch.
@@ -211,6 +212,7 @@ It is a pretty straight forwarded approach without any machine learning modules.
 ## Day 53,54:
 **Days' Progress**:
 As a part of Integrated Internship Program by [Widhya](https://widhya.org/#/), finished assignments in Machine Learning.
+
 Tasks included: 
 1. Instagram Data Collection and Cleaning
 2. Building a Linear Regression Machine Learning Model
@@ -226,6 +228,7 @@ Somehow got tricked in the Data Cleaning part.
 ## Day 55:
 **Days' Progress**:
 As a part of Integrated Internship Program by [Widhya](https://widhya.org/#/), finished assignments in Deep Learning.
+
 Tasks included: 
 1. Data Collection
 2. Forward Propagation
