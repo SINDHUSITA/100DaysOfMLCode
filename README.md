@@ -182,3 +182,59 @@ Though this algorithm gave lesser accuracy compared to other algoritms, it perfo
 
 ![Reviews - 1](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/Reviews1.png) ![Reviews - 2](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/Reviews2.png)
 
+## Day 47-50:
+**Days' Progress**:
+Deeper understanding of NLP.
+Implemented NLP with deep learning
+Once again implemented Sentiment Analysis with the famous BERT approach on IDMB movie reviews dataset.
+
+**Link to work**:
+Referred from this [guided project](https://www.udemy.com/course/natural-language-processing-with-bert/) in Udemy.
+Will upload my version of implementation soon.
+
+**Thoughts**:
+[BERT Guide](https://sdsclub.com/bert-google-nlp-algorithm/)
+
+## Day 51,52:
+**Days' Progress**:
+As a part of Integrated Internship Program by [Widhya](https://widhya.org/#/), finished assignments in Quantitative Modeling.
+Tasks included: 
+1. Covid-19 Data Collection and Visualization.
+2. Modeling a solution for exponential data from scratch.
+
+**Link to Work**:
+[Widhya - Quantitative Modeling](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Widhya%20IIP/Quantitative%20Modeling)
+
+**Thoughts**:
+It is a pretty straight forwarded approach without any machine learning modules.
+
+## Day 53,54:
+**Days' Progress**:
+As a part of Integrated Internship Program by [Widhya](https://widhya.org/#/), finished assignments in Machine Learning.
+Tasks included: 
+1. Instagram Data Collection and Cleaning
+2. Building a Linear Regression Machine Learning Model
+3. Making Predictions on the reach of a certain post.
+
+**Link to work**:
+[Widhya - Machine Learning](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Widhya%20IIP/Machine%20Learning)
+
+**Thoughts**:
+Pretty simple model that predicts the number of likes a post would get based on the number of followers and time since posted.
+Somehow got tricked in the Data Cleaning part.
+
+## Day 55:
+**Days' Progress**:
+As a part of Integrated Internship Program by [Widhya](https://widhya.org/#/), finished assignments in Deep Learning.
+Tasks included: 
+1. Data Collection
+2. Forward Propagation
+3. Backward Propagation
+4. Updating Parameters
+5. Training the ANN
+
+**Link to work**:
+Mostly Theoretical.
+
+**Thoughts**:
+With reference to [this](https://github.com/DeepShiz/Artificial-Neural-Network), understood implementing an Artificial Neural Network from scratch.
