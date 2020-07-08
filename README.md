@@ -241,3 +241,13 @@ Mostly Theoretical.
 
 **Thoughts**:
 With reference to [this](https://github.com/DeepShiz/Artificial-Neural-Network), understood implementing an Artificial Neural Network from scratch.
+
+## Day 56,57:
+**Days' Progress**:
+A small break to practical applications as I feel like I need more theoretical and deeper understanding of how Deep Learning works.
+Focusing on improving Deep Neural Networks with a [course](https://www.coursera.org/learn/deep-neural-network)
+
+Topics included:
+1. Hyper parameter tuning
+2. Regularization
+3. Optimization
