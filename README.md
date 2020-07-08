@@ -248,6 +248,6 @@ A small break to practical applications as I feel like I need more theoretical a
 Focusing on improving Deep Neural Networks with a [course](https://www.coursera.org/learn/deep-neural-network)
 
 Topics included:
-1. Hyper parameter tuning
-2. Regularization
-3. Optimization
+1. Understanding Bias and Variance
+2. Regularizing Neural Networks
+3. Setting up an Optimization problem
