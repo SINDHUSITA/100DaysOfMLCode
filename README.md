@@ -261,6 +261,7 @@ Been through many amazing blogs and projects.
 **Link to work**:
 
 Here are a few quite insightful blogs I came across.
+
 **Projects that are advised to be done by any fledgling Data Scientist**
 - https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
 - https://www.analyticsvidhya.com/blog/2020/07/7-open-source-data-science-projects-add-resume/
