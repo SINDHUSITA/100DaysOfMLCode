@@ -251,3 +251,24 @@ Topics included:
 1. Understanding Bias and Variance
 2. Regularizing Neural Networks
 3. Setting up an Optimization problem
+
+## Day 58,59:
+**Days' Progress**:
+Gone through this website called [Analytics Vidhya](https://www.analyticsvidhya.com/) whose content I underestimated for some reason.
+With a friend's reference, I got into it and can't help myself to distract from it.
+Been through many amazing blogs and projects.
+
+**Link to work**:
+
+Here are a few quite insightful blogs I came across.
+**Projects that are advised to be done by any fledgling Data Scientist**
+- https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+- https://www.analyticsvidhya.com/blog/2020/07/7-open-source-data-science-projects-add-resume/
+
+**Others:**
+- https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/
+- https://www.analyticsvidhya.com/blog/2020/04/how-to-read-common-file-formats-python/
+- https://www.analyticsvidhya.com/blog/2020/07/what-is-skewness-statistics/
+
+**Thoughts**: Still can't get over the amount of powerful and useful resources available online just for free.
+Thanks to the wonderful Data Science community!
