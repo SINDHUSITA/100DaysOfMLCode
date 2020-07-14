@@ -273,3 +273,15 @@ Here are a few quite insightful blogs I came across.
 
 **Thoughts**: Still can't get over the amount of powerful and useful resources available online just for free.
 Thanks to the wonderful Data Science community!
+
+## Day 60-62:
+**Days' Progress**:
+Learning about **Time Series Prediction**. Got familiar with basics and jumped to try out a [guided project](https://www.coursera.org/projects/prophet-timeseries-prediction) in Coursera. This uni-variate project deals with forecasting the Avocado Prices in America based on previous years' prices. 
+Understood about a model called Prophet developed by Facebook, which makaes Time series prediction very easy and informative.
+
+**Link to work**:
+*Not uploading the repository as it is pretty simple and easy.*
+
+**Thoughts**:
+The idea of doing guided projects felt bad for me. It is just like a code walk through which prevents the chances of exploring and learning.
+
