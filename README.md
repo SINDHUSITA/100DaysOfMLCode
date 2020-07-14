@@ -290,3 +290,5 @@ Understood about a model called Prophet developed by Facebook, which makaes Time
 The idea of doing guided projects felt bad for me. It is just like a code walk through which prevents the chances of exploring and learning.
 However, though I couldn't get enough hands-on with time series, I practised more on the visualization techniques.
 
+![Avocado Price Forecast results](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/Avocado%20Price%20Forecast.png)
+
