@@ -15,6 +15,7 @@ I pledge to spend atleast an hour every day on machine learning for the next 100
 - [Jupyter Notebook](https://jupyter.org/)
 - [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
 - [TensorFlow Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.43541&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+- [Facebook Prophet](https://facebook.github.io/prophet/)
 
 ## Prominent Resources
 - Udemy 
@@ -22,6 +23,7 @@ I pledge to spend atleast an hour every day on machine learning for the next 100
 - Coursera 
   - [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
   - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+  - [Guided Project](https://www.coursera.org/projects/prophet-timeseries-prediction)
 - Youtube
   - [Convolutional Neural Networks](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
   
@@ -38,10 +40,12 @@ No | Project Title | Completed On | Concept
 2  | [Breast Cancer Prediction](https://github.com/SINDHUSITA/Breast-Cancer-Prediction) | Day 10 | Classification
 3  | [Titanic Survival Prediction](https://github.com/SINDHUSITA/Titanic-Machine-Learning-from-Disaster) | Day 20 | Classification
 4  | [Hand Written Digit Regonizer](https://github.com/SINDHUSITA/Hand-Written-Digit-Recognizer) | Day 38 | Multi Class Classification Computer Vision
+5  | [Avocado Prices Forecasting](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Time%20Series%20-%20Avocado%20Pricing) | Day 60 | Time Series model with **Facebook Prophet** tool
 
 ## Course Certifications
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/EBDZUTVZW39G)
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/3R4QL7MD4XAX)
+- [Guided Project - Time Series](https://www.coursera.org/account/accomplishments/records/N4UCR8545PX2)
 
 ## Day 1
 **Today's Progress:**
@@ -274,14 +278,15 @@ Here are a few quite insightful blogs I came across.
 **Thoughts**: Still can't get over the amount of powerful and useful resources available online just for free.
 Thanks to the wonderful Data Science community!
 
-## Day 60-62:
+## Day 60-63:
 **Days' Progress**:
 Learning about **Time Series Prediction**. Got familiar with basics and jumped to try out a [guided project](https://www.coursera.org/projects/prophet-timeseries-prediction) in Coursera. This uni-variate project deals with forecasting the Avocado Prices in America based on previous years' prices. 
 Understood about a model called Prophet developed by Facebook, which makaes Time series prediction very easy and informative.
 
 **Link to work**:
-*Not uploading the repository as it is pretty simple and easy.*
+[Time Series Forecasting for Avocado Prices](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Time%20Series%20-%20Avocado%20Pricing)
 
 **Thoughts**:
 The idea of doing guided projects felt bad for me. It is just like a code walk through which prevents the chances of exploring and learning.
+However, though I couldn't get enough hands-on with time series, I practised more on the visualization techniques.
 
