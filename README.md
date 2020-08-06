@@ -41,6 +41,7 @@ No | Project Title | Completed On | Concept
 3  | [Titanic Survival Prediction](https://github.com/SINDHUSITA/Titanic-Machine-Learning-from-Disaster) | Day 20 | Classification
 4  | [Hand Written Digit Regonizer](https://github.com/SINDHUSITA/Hand-Written-Digit-Recognizer) | Day 38 | Multi Class Classification Computer Vision
 5  | [Avocado Prices Forecasting](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Time%20Series%20-%20Avocado%20Pricing) | Day 60 | Time Series model with **Facebook Prophet** tool
+6  | [Customer Segmentation](https://github.com/SINDHUSITA/Customer-Segmentation)  | Day 70 | Clustering/Unsupervised Learning
 
 ## Course Certifications
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/EBDZUTVZW39G)
@@ -292,3 +293,24 @@ However, though I couldn't get enough hands-on with time series, I practised mor
 
 ![Avocado Price Forecast results](https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/Avocado%20Price%20Forecast.png)
 
+## Day 64-65:
+**Days'Progress**:
+Spent more time on Data Visualization from [Analytics Vidya](https://www.analyticsvidhya.com/blog/2015/05/data-visualization-python/) and [KDnuggets](https://www.kdnuggets.com/2015/11/overview-python-visualization-tools.html).
+
+**Thoughts**:
+It is true that Data Visualization plays the most important role to understand data. It is not a good practice to directly jump into working on data even before knowing how our data looks like. After spending good enough time on understanding the data, model development is more meaningful.
+
+## Day 66-70:
+**Days' Progress**:
+Implemented understanding on **Clustering** with a mini project called **Customer Segmentation**.
+This model with the minimal data available with retailers, lets them understand their customers better. With information of customer's gender, age and annual income, we group customers based on their spend score.
+
+**Link to work**:
+[Mall Customers Segmentation](https://github.com/SINDHUSITA/Customer-Segmentation)
+
+
+**Thoughts**:
+
+![Customer Groups](https://blog.hubspot.com/hubfs/what%20is%20customer%20segmentation.jpg)
+
+A pretty much straight forwarded model.
