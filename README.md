@@ -1,4 +1,4 @@
-# 100 Days Of ML Code
+<img src="https://github.com/SINDHUSITA/100DaysOfMLCode/blob/master/Images/100Days.jpg" height="300" width="1000">
 
 **Main target:** ***I will practise Machine Learning for at least an hour every day for the next 100 days.***
 
@@ -339,5 +339,3 @@ Got to meet Industrial experts and an opportunity to understand the greatest sol
 ## Final Thoughts:
 
 🥳🎉🎇 **Here's the end to my challenge but not to my passionate learning process.** 🎇🎉🥳
-
-**#100DaysOfMLCode**🔥
