@@ -314,3 +314,22 @@ This model with the minimal data available with retailers, lets them understand 
 ![Customer Groups](https://blog.hubspot.com/hubfs/what%20is%20customer%20segmentation.jpg)
 
 A pretty much straight forwarded model.
+
+## Day 71-100:
+**Days' Progress**:
+Worked on a Hackathon on HackerEarth held by [Ernst & Young](https://www.ey.com/en_in) called the [Radio - EY GDS Hackathon](https://www.hackerearth.com/challenges/hackathon/ey-radio-hackathon/). 
+
+Theme: EY Badges, where in there were 2 main tasks
+
+1. Recommendation mechanism to the professionals on what badges they can pick up based on the varioius factors.
+2. Create a mechanism to monitor the impact of badge on individual performance in terms of new projects, increased efficiency, mentoring other team members, etc.
+
+**Link to work**:
+[EY Badges](https://github.com/SINDHUSITA/EYBadges)
+
+**Thoughts**:
+
+![Hackathon Page](https://github.com/SINDHUSITA/EYBadges/blob/master/Hackathon.PNG)
+
+I have been thinking of a right way to end this challenge and that is when I came across the challenging Hackathon. Me, collaborated with my friend, managed to solve these complex problems to finally stand among the top 3 finalists. 
+Got to meet Industrial experts and an opportunity to understand the greatest solutions for each theme. Will cherish this experience and learnings from the first ever hackathon.
