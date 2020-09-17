@@ -42,6 +42,7 @@ No | Project Title | Completed On | Concept
 4  | [Hand Written Digit Regonizer](https://github.com/SINDHUSITA/Hand-Written-Digit-Recognizer) | Day 38 | Multi Class Classification Computer Vision
 5  | [Avocado Prices Forecasting](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Time%20Series%20-%20Avocado%20Pricing) | Day 60 | Time Series model with **Facebook Prophet** tool
 6  | [Customer Segmentation](https://github.com/SINDHUSITA/Customer-Segmentation)  | Day 70 | Clustering/Unsupervised Learning
+7  | [EY Badges](https://github.com/SINDHUSITA/EYBadges)  | Day 100 | Recommendation Engine and Performance Management System 
 
 ## Course Certifications
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/EBDZUTVZW39G)
@@ -332,4 +333,11 @@ Theme: EY Badges, where in there were 2 main tasks
 ![Hackathon Page](https://github.com/SINDHUSITA/EYBadges/blob/master/Hackathon.PNG)
 
 I have been thinking of a right way to end this challenge and that is when I came across the challenging Hackathon. Me, collaborated with my friend, managed to solve these complex problems to finally stand among the top 3 finalists. 
-Got to meet Industrial experts and an opportunity to understand the greatest solutions for each theme. Will cherish this experience and learnings from the first ever hackathon.
+Got to meet Industrial experts and an opportunity to understand the greatest solutions for each theme. Will cherish the experience and learnings from the first ever hackathon.
+
+
+## Final Thoughts:
+
+🥳🎉🎇 **Here's the end to my challenge but not to my passionate learning process.** 🎇🎉🥳
+
+**#100DaysOfMLCode**🔥
