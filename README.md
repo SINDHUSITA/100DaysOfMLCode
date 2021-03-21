@@ -40,9 +40,10 @@ No | Project Title | Completed On | Concept
 2  | [Breast Cancer Prediction](https://github.com/SINDHUSITA/Breast-Cancer-Prediction) | Day 10 | Classification
 3  | [Titanic Survival Prediction](https://github.com/SINDHUSITA/Titanic-Machine-Learning-from-Disaster) | Day 20 | Classification
 4  | [Hand Written Digit Regonizer](https://github.com/SINDHUSITA/Hand-Written-Digit-Recognizer) | Day 38 | Multi Class Classification Computer Vision
-5  | [Avocado Prices Forecasting](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Time%20Series%20-%20Avocado%20Pricing) | Day 60 | Time Series model with **Facebook Prophet** tool
-6  | [Customer Segmentation](https://github.com/SINDHUSITA/Customer-Segmentation)  | Day 70 | Clustering/Unsupervised Learning
-7  | [EY Badges](https://github.com/SINDHUSITA/EYBadges)  | Day 100 | Recommendation Engine and Performance Management System 
+5  | [Sentiment Analysis](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Part%207%20-%20Natural%20Language%20Processing) | Day 46 | Ninary Classification with NLP 
+6  | [Avocado Prices Forecasting](https://github.com/SINDHUSITA/100DaysOfMLCode/tree/master/Time%20Series%20-%20Avocado%20Pricing) | Day 60 | Time Series model with **Facebook Prophet** tool
+7  | [Customer Segmentation](https://github.com/SINDHUSITA/Customer-Segmentation)  | Day 70 | Clustering/Unsupervised Learning
+8  | [EY Badges](https://github.com/SINDHUSITA/EYBadges)  | Day 100 | Recommendation Engine and Performance Management System 
 
 ## Course Certifications
 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/EBDZUTVZW39G)
